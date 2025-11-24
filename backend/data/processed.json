@@ -1,0 +1,56 @@
+[
+  {
+    "Area": "Metropolis",
+    "Year": 2019,
+    "Price": 540000,
+    "Demand": 78
+  },
+  {
+    "Area": "Metropolis",
+    "Year": 2020,
+    "Price": 580000,
+    "Demand": 83
+  },
+  {
+    "Area": "Metropolis",
+    "Year": 2021,
+    "Price": 620000,
+    "Demand": 85
+  },
+  {
+    "Area": "Suburbia",
+    "Year": 2019,
+    "Price": 320000,
+    "Demand": 65
+  },
+  {
+    "Area": "Suburbia",
+    "Year": 2020,
+    "Price": 350000,
+    "Demand": 70
+  },
+  {
+    "Area": "Suburbia",
+    "Year": 2021,
+    "Price": 380000,
+    "Demand": 76
+  },
+  {
+    "Area": "Downtown",
+    "Year": 2019,
+    "Price": 720000,
+    "Demand": 90
+  },
+  {
+    "Area": "Downtown",
+    "Year": 2020,
+    "Price": 760000,
+    "Demand": 93
+  },
+  {
+    "Area": "Downtown",
+    "Year": 2021,
+    "Price": 800000,
+    "Demand": 95
+  }
+]
