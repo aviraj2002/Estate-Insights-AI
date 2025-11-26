@@ -3,3 +3,4 @@ pandas>=2.0
 openpyxl>=3.0
 django-cors-headers>=3.13
 djangorestframework>=3.14
+gunicorn>=21.2.0   # 👈 ye nayi line add karo
