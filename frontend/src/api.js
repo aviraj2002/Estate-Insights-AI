@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const BASE = "http://localhost:8000/api";
+const BASE = "https://estate-insights-ai.onrender.com/api/";
 
 export const uploadExcel = (file) => {
   const fd = new FormData();
